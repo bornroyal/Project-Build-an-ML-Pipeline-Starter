@@ -36,7 +36,8 @@ def go(args):
     # in the project.
     # Add longitude and latitude filter to allow test_proper_boundaries to pass
     # ENTER CODE HERE
-
+    idx = df['longitude'].between(-74.25, -73.50) & df['latitude'].between(40.5, 41.2)
+    df = df[idx].copy()
     # Save the cleaned data
     logger.info("Saving cleaned data to clean sample")
     df.to_csv('clean_sample.csv',index=False)
