@@ -6,6 +6,9 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+
+# W&B Project link : https://wandb.ai/bornroy-quizlet/nyc_airbnb?nw=nwuserbornroy
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
