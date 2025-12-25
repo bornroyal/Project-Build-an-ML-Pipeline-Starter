@@ -1,5 +1,5 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
-
+Notice: because I added logging comments and did more than on the syllabus was due to many errors and needed to print my messages to get things to work. Also some updates to config and version because I was getting errors so I looked up proper dependencies and even my course instructor instructed me from WGU that there is many issues and see if someone had something similar.
 WGU email: droy29@wgu.edu
 W&B LINK: https://wandb.ai/bornroy-quizlet/nyc_airbnb/reports/Untitled-Report--VmlldzoxNTQ2MzI5OA?accessToken=8e8ftbk17wx63wbptooy2e3sibwvamwasck6msq3vmls8t19qygxri42uistfnhu
 
@@ -9,6 +9,9 @@ on the price of similar properties. Your company receives new data in bulk every
 to be retrained with the same cadence, necessitating an end-to-end pipeline that can be reused.
 
 In this project you will build such a pipeline.
+
+
+# W&B Project link : https://wandb.ai/bornroy-quizlet/nyc_airbnb?nw=nwuserbornroy
 
 ## Table of contents
 
