@@ -1,4 +1,8 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
+
+WGU email: droy29@wgu.edu
+W&B LINK: https://wandb.ai/bornroy-quizlet/nyc_airbnb/reports/Untitled-Report--VmlldzoxNTQ2MzI5OA?accessToken=8e8ftbk17wx63wbptooy2e3sibwvamwasck6msq3vmls8t19qygxri42uistfnhu
+
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
 on the price of similar properties. Your company receives new data in bulk every week. The model needs 
